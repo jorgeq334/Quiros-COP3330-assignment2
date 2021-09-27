@@ -1,4 +1,4 @@
-package org.example;
+package Ex24;
 import java.util.*;
 /**
  *  UCF COP3330 Fall 2021 Assignment 2 Solution
